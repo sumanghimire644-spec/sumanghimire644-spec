@@ -1,4 +1,4 @@
-# Hi there, I'm Sumang Himire 👋
+# Hi there, I'm Sumang Ghimire 👋
 
 ### 🔬 Genetics & Plant Breeding Researcher 
 I specialize in leveraging data-driven approaches to optimize crop performance and understand genetic architecture. 
