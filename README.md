@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sumang Himire 👋
 
-<!--
-**sumanghimire644-spec/sumanghimire644-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Genetics & Plant Breeding Researcher 
+I specialize in leveraging data-driven approaches to optimize crop performance and understand genetic architecture. 
 
-Here are some ideas to get you started:
+- 🧬 **Research Focus:** Molecular characterization & population genetics.
+- 🌾 **Fieldwork:** Designing and analyzing multi-environment trials (METs).
+- 💻 **Bioinformatics:** Developing R-based workflows for genomic and phenotypic data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages & Environments:** R, RStudio, Bioconductor
+- **Key R Packages:** `lme4`, `agricolae`, `sommer`, `ggplot2`, `tidyverse`
+- **Methodologies:** Genome-Wide Association Studies (GWAS), Marker-Assisted Selection (MAS), Mixed Models
+
+---
+
+### 📬 Connect with Me
+- 📧 **Email:** sumanghimire644@gmail.com
+- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com)
+- 📝 **ResearchGate:** [ResearchGate Profile](https://www.researchgate.net/profile/Suman-Ghimire-14)
+- 🆔 **ORCID:** [ORCID iD](https://orcid.org)
